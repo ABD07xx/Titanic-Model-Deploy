@@ -6,7 +6,7 @@ from io import StringIO
 import streamlit.components.v1 as stc 
 import os
 import numpy as np 
-
+import sklearn
 
 
 # wrap the string data in StringIO function
